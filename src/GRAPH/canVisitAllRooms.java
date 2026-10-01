@@ -1,7 +1,5 @@
 package GRAPH;
-
 import java.util.*;
-
 public class canVisitAllRooms {
     public boolean canVisitAllRooms(List<List<Integer>> rooms){
         int n = rooms.size();
