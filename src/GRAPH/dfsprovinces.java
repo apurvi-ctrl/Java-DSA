@@ -13,7 +13,6 @@ public class dfsprovinces {
         }
         return count;
     }
-
     void dfs(int i, boolean[] visited, int[][] isConnected) {
         int n = isConnected.length;
         visited[i] = true;
